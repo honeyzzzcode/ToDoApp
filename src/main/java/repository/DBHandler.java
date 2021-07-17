@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBHandler {
-  String connectionUrl = "jdbc:mysql://localhost:3306/TodoApp";
-  String user = "java_16_02";
-  String pass = "java_16_02";
+  String connectionUrl = "jdbc:mysql://localhost:3306/ToDo";
+  String user = "root";
+  String pass = "Honeyzzz7@";
 
   private static Connection connection;
 
